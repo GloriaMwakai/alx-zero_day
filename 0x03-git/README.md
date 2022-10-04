@@ -1,1 +1,1 @@
-My first project
+My first project learning how to merge branches
